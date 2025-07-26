@@ -39,7 +39,7 @@ app.post('/api/generate-image', async (req, res) => {
     // Tách chuỗi thành một mảng các key và loại bỏ khoảng trắng thừa
     const apiKeys = apiKeysString.split(',').map(key => key.trim());
 
-    const engineId = 'stable-diffusion-v1-6';
+    const engineId = 'stable-diffusion-xl-1024-v1-0';
     const apiHost = 'https://api.stability.ai';
 
     // Vòng lặp để thử từng key
