@@ -1,7 +1,7 @@
 {
-  "name": "Thiết Kế",
-  "short_name": "Thiết Kế",
-  "description": "Thiết Kế",
+  "name": "Thiết Kế Stability",
+  "short_name": "Thiết Kế Stability",
+  "description": "Thiết Kế Stability",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f0f2f5",
@@ -40,5 +40,6 @@
   ]
 
 }
+
 
 
